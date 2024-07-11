@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ritika Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width= "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhack.codingblocks.com%2F&psig=AOvVaw2km3q1WCS72V6NoJCr7uY9&ust=1720762072998000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOja2bSgnocDFQAAAAAdAAAAABAK">
+<img align="right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=ritikajoshi2807&label=Profile%20views&color=0e75b6&style=flat" alt="ritikajoshi2807" /> </p>
 
